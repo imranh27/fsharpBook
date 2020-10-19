@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ihashmi\\Source\\github\\fsharpBook\\GetProgrammming\\Chapter_12\\ConsoleApp\\ConsoleApp\\ConsoleApp.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ihashmi\\Source\\github\\fsharpBook\\GetProgrammming\\Chapter_12\\ConsoleApp\\ConsoleApp\\ConsoleApp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ihashmi\\Source\\github\\fsharpBook\\GetProgrammming\\Chapter_12\\ConsoleApp\\ConsoleApp\\ConsoleApp.fsproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "C:\\Users\\ihashmi\\Source\\github\\fsharpBook\\GetProgrammming\\Chapter_12\\ConsoleApp\\ConsoleApp\\ConsoleApp.fsproj",
+        "packagesPath": "C:\\Users\\ihashmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ihashmi\\Source\\github\\fsharpBook\\GetProgrammming\\Chapter_12\\ConsoleApp\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ihashmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
