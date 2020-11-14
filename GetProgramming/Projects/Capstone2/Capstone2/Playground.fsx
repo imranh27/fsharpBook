@@ -1,7 +1,3 @@
-﻿
-
-
-
 //Customer
 type Customer = 
     { CustomerID : System.Guid
@@ -141,13 +137,21 @@ account1
 |> withdrawWithConsoleAudit 50M
 
 
+open System
+
+Console.Write("Enter name")
+let nameIn = Console.ReadLine()
+
+Console.WriteLine( sprintf "you entered %s" nameIn)
 
 
-
-
-
-
-
-
-
+while true do
+    let input = 
+        Console.Write("Enter name: x to exit")
+        Console.ReadLine()
+  
+  
+        
+    
+    
 

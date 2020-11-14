@@ -1,4 +1,3 @@
-﻿
 
 namespace Capstone2.Domain
 
@@ -15,3 +14,4 @@ type Account =
       Deposit : decimal
       Withdrawal : decimal
       Balance : decimal}
+

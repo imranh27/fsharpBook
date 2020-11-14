@@ -1,4 +1,3 @@
-﻿
 module Auditing
 
 //audit functions

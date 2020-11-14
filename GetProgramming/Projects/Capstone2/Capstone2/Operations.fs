@@ -1,4 +1,3 @@
-﻿
 module Operations
 
 open Capstone2.Domain
@@ -65,13 +64,3 @@ let createAccount =
 
     thisAccount
 
-
-//Do Stuff
-let getAction =
-    Console.WriteLine("What do you wish to do? Deposit = d, Withdrawal = w, Exit = x")
-    Console.ReadLine()
-
-
-let getAmount = 
-    Console.WriteLine("How much?")
-    Decimal.Parse(Console.ReadLine())

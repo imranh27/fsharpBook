@@ -1,15 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net472</TargetFramework> 
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  </PropertyGroup>
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp5.0</TargetFramework>
+    </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="Domain.fs" />
-    <Compile Include="Operations.fs" />
-    <Compile Include="Auditing.fs" />
-    <Compile Include="Program.fs" />
-    <None Include="Playground.fsx" />
-  </ItemGroup>
+    <ItemGroup>
+        <Compile Include="Domain.fs" />
+        <Compile Include="Operations.fs" />
+        <Compile Include="Auditing.fs" />
+        <Compile Include="Program.fs" />
+        <None Include="hello.fsx" />
+        <None Include="Playground.fsx" />
+    </ItemGroup>
+
 </Project>

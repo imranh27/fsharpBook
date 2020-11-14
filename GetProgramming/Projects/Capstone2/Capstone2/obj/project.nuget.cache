@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E8sCm4LXew4/M9G2kkWukHF/gN3jySyiO5ZXYKrafZxsDDdXJBiv0qJcMOdXXXa5SAIAe8cetZZPgBumlSuCMA==",
+  "dgSpecHash": "asebMoUPtX7YYMUFRu0sKMiBEOfyLhRGWgIRgnikjxZUnyETnIo7DybyUAot21rSl4gAAwj38p41p3rLmJwfBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ihashmi\\Source\\github\\fsharpBook\\GetProgrammming\\Projects\\Capstone2\\Capstone2\\Capstone2.fsproj",
+  "projectFilePath": "/Users/imranh/Documents/Programming/FSharp/Capstone2/Capstone2/Capstone2.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ihashmi\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+    "/Users/imranh/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
