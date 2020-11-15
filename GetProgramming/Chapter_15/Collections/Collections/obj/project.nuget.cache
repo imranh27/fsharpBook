@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9jH6PeBpOeMWAvX6DgOQHBKa1F28NyloMVsN3dRs1vn901oa8u395Hn387OIB7guNjoW39UYZ9kzxYQ/zrcuQ==",
+  "success": true,
+  "projectFilePath": "/Users/imranh/Documents/Programming/FSharp/fsharpBook/GetProgramming/Chapter_15/Collections/Collections/Collections.fsproj",
+  "expectedPackageFiles": [
+    "/Users/imranh/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

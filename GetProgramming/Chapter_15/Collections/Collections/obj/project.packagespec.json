@@ -1,0 +1,48 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/imranh/Documents/Programming/FSharp/fsharpBook/GetProgramming/Chapter_15/Collections/Collections/Collections.fsproj",
+    "projectName": "Collections",
+    "projectPath": "/Users/imranh/Documents/Programming/FSharp/fsharpBook/GetProgramming/Chapter_15/Collections/Collections/Collections.fsproj",
+    "outputPath": "/Users/imranh/Documents/Programming/FSharp/fsharpBook/GetProgramming/Chapter_15/Collections/Collections/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net50"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp5.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp5.0": {
+      "dependencies": {
+        "FSharp.Core": {
+          "target": "Package",
+          "version": "[5.0.0, )",
+          "generatePathProperty": true
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+    }
+  }
+}
