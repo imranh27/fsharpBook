@@ -22,7 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51484119-101f-404a-b1c9-aaf49367e52c" name="Default Changelist" comment="" />
+    <list default="true" id="51484119-101f-404a-b1c9-aaf49367e52c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Collections/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Collections/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Collections.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Collections.fsproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sequences.fsx" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sequences.fsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/obj/Debug/net5.0/Collections.fsproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/obj/Debug/net5.0/Collections.fsproj.CoreCompileInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +43,9 @@
         <option value="$PROJECT_DIR$/Collections/Playground.fsx" />
         <option value="$PROJECT_DIR$/Collections/Collections.fsx" />
         <option value="$PROJECT_DIR$/Collections/Sequences.fsx" />
+        <option value="$PROJECT_DIR$/Collections/Maps.fsx" />
+        <option value="$PROJECT_DIR$/Collections/Sets.fsx" />
+        <option value="$PROJECT_DIR$/Collections/Folds.fsx" />
       </list>
     </option>
   </component>
@@ -86,14 +95,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605385817888</updated>
-      <workItem from="1605385826071" duration="2822000" />
+      <workItem from="1605385826071" duration="6820000" />
+      <workItem from="1605731239503" duration="6486000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -105,6 +115,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -126,5 +137,13 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="985" height="279" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1605388019891" />
+    <state x="793" y="123" width="787" height="827" key="VCS.FileHistoryDialog" timestamp="1605453674751">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="793" y="123" width="787" height="827" key="VCS.FileHistoryDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1605453674751" />
+    <state x="851" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1606079565232">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="851" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1606079565232" />
   </component>
 </project>

@@ -9,6 +9,9 @@
         <Compile Include="Program.fs" />
         <None Include="Collections.fsx" />
         <None Include="Sequences.fsx" />
+        <None Include="Maps.fsx" />
+        <None Include="Sets.fsx" />
+        <None Include="Folds.fsx" />
     </ItemGroup>
 
 </Project>
